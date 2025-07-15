@@ -1,0 +1,14 @@
+{
+  "name": "the-book-nest",
+  "version": "0.0.1",
+  "author": "Logan Tolbert",
+  "license": "UNLICENSED",
+  "description": "The Book Nest is an fictional online bookstore that allows users to browse and purchase books.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/logan-tolbert/TheBookNest"
+  },
+  "scripts": {
+    "start": "cd backend && npm run start"
+  }
+}
